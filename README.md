@@ -11,4 +11,5 @@ and store the model as model.pt.
 Reference links :
 
 https://towardsdatascience.com/handwritten-digit-mnist-pytorch-977b5338e627
+
 https://www.youtube.com/watch?v=PXOzkkB5eH0
