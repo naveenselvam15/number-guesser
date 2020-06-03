@@ -8,8 +8,20 @@ cleaningData.py, csv files will be created in newDataset folder.Run trainingMode
 which create, train, and test the model for classification using newModel folder 
 and store the model as model.pt.
 
+Run the guessNumber.py to begin the fun. It uses opencv functions to detect mouse clicks 
+and draw on the screen. Then the image is send to the model and probabilities for each digits
+are calculated and plotted.
+
+GAME CONTROLS
+
+'q' - quit the game
+'r' - reset the game
+'g' - guess the image 
+
 Reference links :
 
 https://towardsdatascience.com/handwritten-digit-mnist-pytorch-977b5338e627
 
 https://www.youtube.com/watch?v=PXOzkkB5eH0
+
+https://www.youtube.com/watch?v=rrh-4NtuK-w&t=300s
